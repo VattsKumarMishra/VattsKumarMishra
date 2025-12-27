@@ -1,4 +1,4 @@
-#  About Me :)
+#  About_>
 I’m Vatts Kumar, currently pursuing B.Tech CSE from Amity University.<br>Building a strong foundation in AI/ML, coding, business fundamentals, and project management, while exploring new technologies and finding practical ways to apply them. Driven by curiosity and continous learning, I focus on developing a versatile skill set that enables me to create a meaningful value at the intersection of technology and business.
 
 
